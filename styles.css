@@ -88,7 +88,9 @@ a:link{
   width: 77.5px;
   height: 77.5px;
 }
-
+a#title.visited{
+  color:#EDED00
+}
 a:visited{
   text-decoration-style: solid;
   color: #AACD20;
