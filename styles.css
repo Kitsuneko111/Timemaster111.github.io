@@ -88,14 +88,17 @@ a:link{
   width: 77.5px;
   height: 77.5px;
 }
-a#title.visited{
-  color:#EDED00
-}
+
 a:visited{
   text-decoration-style: solid;
   color: #AACD20;
 }
-
+a.normal:visited{
+  color:#EDED00
+}
+a.normal:hover{
+  color:#CDCD20
+}
 a:hover{
   text-decoration-style: solid;
   color: #CDCD20;
