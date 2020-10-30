@@ -1,7 +1,7 @@
 body{
   background-color: #292c30;
   color: #EDED00;
-  font-family: 'comic sans ms', impact, sans-serif;
+  font-family: "roboto", sans-serif;
   font-weight: bold;
   text-decoration-color: #424649;
 }
@@ -118,15 +118,5 @@ h3.status{
 }
 p.status{
   padding-left: 15px;
-}
-li{
-  padding-left: inherit;
-  font-size: medium;
-  text-decoration: none;
-}
-ul{
-  padding-left: inherit;
-  font-size: medium;
-  text-decoration: none;
 }
 
