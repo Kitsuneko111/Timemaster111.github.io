@@ -1,0 +1,129 @@
+body{
+  background-color: #292c30;
+  color: #EDED00;
+  font-family: "roboto", sans-serif;
+  font-weight: bold;
+  text-decoration-color: #424649;
+}
+header{
+  font-size: 500%;
+    text-align: center;
+    text-decoration: underline;
+
+}
+nav{
+  font-size: 125%;
+  border-top: 2px solid #323639;
+  border-bottom: 2px solid #323639;
+  text-align: center;
+}
+h1{
+  padding-left: 5px;
+  text-decoration:underline solid #424649;
+}
+h2{
+  padding-left: 15px;
+  text-decoration:underline solid #424649;
+}
+h3{
+  padding-left: 25px;
+  text-decoration:underline solid #424649;
+}
+h4{
+  padding-left: 35px;
+  text-decoration:underline solid #424649;
+}
+h5{
+  padding-left: 45px;
+  text-decoration:underline solid #424649;
+}
+h6{
+  padding-left: 55px;
+  text-decoration:underline solid #424649;
+}
+
+.h1{
+  padding-left: 15px;
+
+}
+.h2{
+  padding-left: 25px;
+
+}
+.h3{
+  padding-left: 35px;
+
+}
+.h4{
+  padding-left: 45px;
+
+}
+.h5{
+  padding-left: 55px;
+
+}
+.h6{
+  padding-left: 65px;
+
+}
+
+p{
+  padding-left: inherit;
+  font-size: larger;
+  text-decoration: none;
+}
+sup{
+  font-size: xx-small;
+}
+
+a:link{
+  text-decoration-style: solid;
+  color: #EEEEB0;
+}
+
+.logo{
+  position: relative;
+  top: 15px;
+  left: -1px;
+  width: 77.5px;
+  height: 77.5px;
+}
+
+a:visited{
+  text-decoration-style: solid;
+  color: #CACD40;
+}
+a.normal:visited{
+  color:#EDED00
+}
+a.normal:hover{
+  color:#CDCD20
+}
+a:hover{
+  text-decoration-style: solid;
+  color: #CDCD20;
+}
+
+footer{
+  border-top: solid 2px #323639;
+}
+
+.toSide{
+  position: relative;
+  top: 10px;
+  height: 27px;
+}
+h3.status{
+  padding-left: 5px;
+}
+p.status{
+  padding-left: 15px;
+}
+
+li > sup{
+  font-size: small;
+}
+
+body#projects ul{
+  font-size: large;
+}
